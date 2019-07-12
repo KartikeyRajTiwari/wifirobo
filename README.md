@@ -6,7 +6,7 @@ FOLLOWING ARE THE INSTRUCTIONS FOR IT
 1-Just load the app in an androidd phone.
 2-Upload the code to the microcontroller.
 3-Connect the phone to same wifi which microcontroller is connected.
-4 Make connections using relay (take hints from the comments in code).
+4 Make connections using relay (take hints from the comments in code&images attached).
 
 Using the code given for arduino/nodemcu/esp8266 we can make the microcontroller take instructions from an
 android device on a personal local area network. 
