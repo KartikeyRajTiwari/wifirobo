@@ -15,7 +15,7 @@ void setup() {
   Serial.begin(115200);
   delay(10);
  
-  pinMode(R1, OUTPUT);
+  pinMode(R1, OUTPUT); // R1 represents relay 1 similarily R2,R3,R4 represent relay 2,3,4;
   pinMode(R2, OUTPUT);
   pinMode(R3, OUTPUT);
   pinMode(R4, OUTPUT);
