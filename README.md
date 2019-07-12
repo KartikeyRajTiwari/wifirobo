@@ -1,4 +1,4 @@
-# wifirobo
+# wifi-robo
 A robot that takes instructions form android phone on wifi lan.
 This project is a combination of app & hardware.This can work for multipurpose carrier bots/stress remover toy-bots/
 as wll as a war robot.
